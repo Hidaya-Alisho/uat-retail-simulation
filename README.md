@@ -20,13 +20,6 @@ Costco is preparing to launch a new internal dashboard for tracking sales and in
 - **Excel** – Test tracker, data logging, severity analysis
 - **PowerPoint (PDF)** – Final stakeholder presentation
 - **Notion** – Full case study walkthrough
-- **GitHub** – Project documentation and version control
-
-## 📁 Files Included
-
-- `UAT project.xlsx` – Issue tracker with simulated test data
-- `UAT_PPT.pdf` – Final presentation with insights and recommendations
-- `README.md` – Project documentation
 
 ##  View the Full Case Study
 

@@ -1,31 +1,38 @@
-Overview
+# Retail UAT Simulation – Business Analyst Case Study
 
-This project is a simulation of a User Acceptance Testing (UAT) phase for a fictional internal dashboard rollout at Costco. It is designed to reflect the core responsibilities of a Business Analyst—planning, executing, and reporting on UAT—to ensure quality, usability, and stakeholder alignment.
+This project simulates a User Acceptance Testing (UAT) phase for a fictional internal dashboard rollout at Costco. It demonstrates how a Business Analyst plans, executes, and communicates UAT results to ensure product quality, user experience, and stakeholder alignment.
 
-Objective
+## Objective
 
-To demonstrate structured thinking, testing methodology, analytical reporting, and business communication—skills essential to a Business & Project Analyst role.
+To showcase structured thinking, testing methodology, stakeholder-ready reporting, and communication—core skills for a Business & Project Analyst role.
 
-Scenario
+## Scenario
 
-Costco is set to deploy a new sales and inventory dashboard. As the analyst, I created a UAT plan, collected simulated tester feedback, tracked issues by severity, analyzed the results, and presented key findings in a final business report format.
+Costco is preparing to launch a new internal dashboard for tracking sales and inventory. As the analyst, I:
 
-Tools Used
+- Created a UAT plan and feedback tracker
+- Logged and categorized test results by severity
+- Analyzed key issues and failure patterns
+- Presented findings in a stakeholder-ready summary deck
 
-Excel (UAT tracker, data logging, visualization)
+## Tools Used
 
-PowerPoint (Stakeholder-ready insights presentation)
+- **Excel** – Test tracker, data logging, severity analysis
+- **PowerPoint (PDF)** – Final stakeholder presentation
+- **Notion** – Full case study walkthrough
+- **GitHub** – Project documentation and version control
 
-GitHub (Version control and project hosting)
+## 📁 Files Included
 
-Notion (Full case study walkthrough)
+- `UAT project.xlsx` – Issue tracker with simulated test data
+- `UAT_PPT.pdf` – Final presentation with insights and recommendations
+- `README.md` – Project documentation
 
-Notes
+##  View the Full Case Study
 
-All data used is simulated for demonstration purposes.
+For the full end-to-end breakdown, including insights and recommendations, visit the full walkthrough on Notion:
 
-The scope has been intentionally narrowed to reflect a focused UAT sample; I am fully capable of applying this methodology to large-scale, real-world datasets and cross-functional environments.
+👉 [Notion Case Study](https://www.notion.so/uat-retail-simulation)
 
-Case Study Presentation
+> This simulation uses mock data to demonstrate a UAT methodology. The scope is intentionally narrowed for clarity, but the same framework can be scaled to enterprise-level projects involving real stakeholders and datasets.
 
-View the full breakdown and analysis on Notion: https://www.notion.so/Retail-UAT-Simulation-Business-Analyst-Case-Study-1d6d02f920098015bf15f65b2daf5f13?pvs=4

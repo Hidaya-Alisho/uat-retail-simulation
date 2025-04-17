@@ -25,7 +25,7 @@ Costco is preparing to launch a new internal dashboard for tracking sales and in
 
 For the full end-to-end breakdown, including insights and recommendations, visit the full walkthrough on Notion:
 
-👉 [Notion Case Study](https://www.notion.so/uat-retail-simulation)
+👉 [[Notion Case Study](https://www.notion.so/uat-retail-simulation)](https://www.notion.so/Retail-UAT-Simulation-Business-Analyst-Case-Study-1d6d02f920098015bf15f65b2daf5f13?pvs=4)
 
 > This simulation uses mock data to demonstrate a UAT methodology. The scope is intentionally narrowed for clarity, but the same framework can be scaled to enterprise-level projects involving real stakeholders and datasets.
 
